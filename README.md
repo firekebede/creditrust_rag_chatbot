@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CrediTrust AI Chatbot (RAG)
 
 An internal Retrieval-Augmented Generation (RAG) chatbot for answering customer complaint questions using semantic search and LLMs.
@@ -18,3 +19,6 @@ See `/src` for core logic, `/app` for UI, and `/notebooks` for development.
 ```bash
 pip install -r requirements.txt
 ```
+=======
+# creditrust_rag_chatbot
+>>>>>>> 8fdd09e90da5979db66fd46cd3cace4cea244da4
