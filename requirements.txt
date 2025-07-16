@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+faiss-cpu
+sentence-transformers
+openai
+chromadb
+tqdm
+python-dotenv
+streamlit
+fastapi
+uvicorn
+pip install pandas matplotlib seaborn nltk
